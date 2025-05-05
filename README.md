@@ -21,7 +21,7 @@ O sistema é composto por três classes principais:
 
 - .NET SDK (recomendado .NET 6.0 ou superior)
 - Ambiente capaz de executar aplicações console em C#
-- 
+
 ## Como Usar
 
 ### Compilação e Execução
