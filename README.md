@@ -9,11 +9,6 @@ Um sistema simples de gerenciamento de estoque desenvolvido em C#, que permite c
 - **Listar Produtos**: Visualize todos os produtos com diferentes opções de ordenação
 - **Buscar Produtos**: Encontre produtos específicos por nome ou palavra-chave
 
-## Requisitos
-
-- .NET SDK (recomendado .NET 6.0 ou superior)
-- Ambiente capaz de executar aplicações console em C#
-
 ## Estrutura do Projeto
 
 O sistema é composto por três classes principais:
@@ -22,6 +17,11 @@ O sistema é composto por três classes principais:
 2. **Estoque.cs**: Implementa as operações de gerenciamento do estoque
 3. **Produto.cs**: Define o modelo de produto com suas propriedades e validações
 
+## Requisitos
+
+- .NET SDK (recomendado .NET 6.0 ou superior)
+- Ambiente capaz de executar aplicações console em C#
+- 
 ## Como Usar
 
 ### Compilação e Execução
